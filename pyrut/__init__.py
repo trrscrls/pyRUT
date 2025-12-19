@@ -29,12 +29,12 @@ Características:
     - Manejo de 'K' como dígito verificador
     - Sin dependencias externas
 
-Autor: PyRUT Team
+Autor: trrscrls
 Licencia: MIT
 """
 
 __version__ = "1.0.0"
-__author__ = "PyRUT Team"
+__author__ = "trrscrls"
 __license__ = "MIT"
 
 from .core import ValidadorRUT, RUTInvalidoError

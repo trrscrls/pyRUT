@@ -300,7 +300,7 @@ pytest tests/test_validador.py::test_validar_rut_correcto -v
 
 MIT License
 
-Copyright (c) 2024 PyRUT Team
+Copyright (c) 2025 trrscrls
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -332,4 +332,4 @@ SOFTWARE.
 
 ## 📞 Soporte
 
-Si encuentras un bug o tienes una sugerencia, por favor abre un [issue](https://github.com/tu-usuario/pyrut/issues).
+Si encuentras un bug o tienes una sugerencia, por favor abre un [issue](https://github.com/trrscrls/pyrut/issues).
