@@ -1,0 +1,11 @@
+# Dependencias de desarrollo para PyRUT
+# La librería en sí NO tiene dependencias externas
+
+# Testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Linting (opcional)
+# flake8>=6.0.0
+# black>=23.0.0
+# mypy>=1.0.0
